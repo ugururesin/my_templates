@@ -1,6 +1,6 @@
 # Conventional AI vs. Explainable AI - Scenario1 (Iris Dataset)
-# Written by Ugur Uresin
-# Github:
+# Written by Ugur Uresin (https://github.com/ugururesin)
+# Repo Github: https://github.com/ugururesin/my_templates/tree/main/explainable-ai
 
 
 # Conventional AI
